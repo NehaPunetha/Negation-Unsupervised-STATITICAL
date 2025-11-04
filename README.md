@@ -1,1 +1,1 @@
-# Negation-Unsupervised-STATITICAL
+Negation handling is a critical component of sentiment analysis, as the presence of negation words (e.g., not, never, no, hardly) can invert or alter the sentiment polarity of a sentence. Traditional classifiers often fail to accurately interpret such linguistic cues, especially in complex or code-mixed text. The Dempster–Shafer (DS) Theory of Evidence provides a robust probabilistic framework to manage this uncertainty and ambiguity by fusing multiple belief sources.
